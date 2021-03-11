@@ -6,11 +6,11 @@ This is an app for managing URLs created to learn VueJS.
 
 ### Stored Resources
 
-!["stored resources"](https://github.com/Lizzyfemme/bookmarks/blob/main/screenshot/stored_resources.png)
+!["stored resources"](https://github.com/Lizzyfemme/bookmarks/blob/main/screenshots/stored_resources.png)
 
 ### Add a Resource
 
-!["add a resource"](https://github.com/Lizzyfemme/bookmarks/blob/main/screenshot/add_resources.png)
+!["add a resource"](https://github.com/Lizzyfemme/bookmarks/blob/main/screenshots/add_resources.png)
 
 ## Getting Started
 
