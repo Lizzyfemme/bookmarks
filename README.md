@@ -1,6 +1,6 @@
 # Bookmark
 
-This is an app for managing URLs designed to learn VueJS.
+This is an app for managing URLs created to learn VueJS.
 
 ## Getting Started
 
